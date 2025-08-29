@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "clippyjs": "github:pi0/clippyjs"
+  },
+  "devDependencies": {
+    "shadcn": "^3.0.0"
   }
 }
